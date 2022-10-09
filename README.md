@@ -8,3 +8,10 @@ The 2019 novel coronavirus (COVID-19) presents several unique features. While th
 In late January, a Chinese team published a paper detailing the clinical and paraclinical features of COVID-19. They reported that patients present abnormalities in chest CT images with most having bilateral involvement Huang 2020. Bilateral multiple lobular and subsegmental areas of consolidation constitute the typical findings in chest CT images of intensive care unit (ICU) patients on admission Huang 2020. In comparison, non-ICU patients show bilateral ground-glass opacity and subsegmental areas of consolidation in their chest CT images Huang 2020. In these patients, later chest CT images display bilateral ground-glass opacity with resolved consolidation Huang 2020.
 
 COVID is possibly better diagnosed using radiological imaging Fang, 2020 and Ai 2020.
+
+# Description
+We have X-ray images of NORMAL and PNEUMONIA persons in the training and testing data.
+
+# Model
+
+In this project, I used a convolutional neural network (CNN) model to classify X-ray images between NORMAL and PNEUMONIA persons.
